@@ -15,6 +15,7 @@ containing information on order history, products purchased, satisfaction commen
 ## Your mission 
  The goal is to help Olist teams understand the different types of users. You will therefore use unsupervised methods to group customers with similar profiles. 
 These categories can be used by the Marketing team to better communicate
+
 The proposed segmentation must be usable and easy to use by our Marketing team. It must at least be able to differentiate between good and less good customers in terms of orders and satisfaction. We are of course expecting segmentation on all customers.
 
 Secondly, once the segmentation model has been chosen, we would like you to recommend how often the segmentation should be updated to remain relevant, in order to be able to quote a maintenance contract.
