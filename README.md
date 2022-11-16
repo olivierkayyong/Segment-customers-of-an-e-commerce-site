@@ -13,7 +13,7 @@ as well as a maintenance contract proposal based on an analysis of segment stabi
 For this mission, Olist provides you with an anonymized database: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce 
 containing information on order history, products purchased, satisfaction comments, and customer location since January 2017.
 ## Your mission 
- The goal is to help Olist teams understand the different types of users. You will therefore use unsupervised methods to group customers with similar profiles. 
+The goal is to help Olist teams understand the different types of users. You will therefore use unsupervised methods to group customers with similar profiles. 
 These categories can be used by the Marketing team to better communicate
 
 The proposed segmentation must be usable and easy to use by our Marketing team. It must at least be able to differentiate between good and less good customers in terms of orders and satisfaction. We are of course expecting segmentation on all customers.
